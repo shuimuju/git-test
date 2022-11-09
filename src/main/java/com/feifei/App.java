@@ -16,5 +16,6 @@ public class App
         System.out.println("hot-fix commit");
         System.out.println("push github");
         System.out.println("push ssh-github");
+        System.out.println("pull ssh-github");
     }
 }
