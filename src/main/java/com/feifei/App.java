@@ -14,5 +14,6 @@ public class App
         System.out.println("hello world!3");
         System.out.println("master commit");
         System.out.println("hot-fix commit");
+        System.out.println("push github");
     }
 }
